@@ -1,8 +1,9 @@
 # eden_demarches
 
 Menu avec 37 démarches differentes pour convenir à chaques situation.
-
+ -- Si quelqu'un est interesser pour faire une traduction anglaise envoyez moi un message privé sur discord: Solaris#6632
 Menu that changes how your character moves. 
+ -- If someone is interest about make an english translation PM me on discord : Solaris#6632
  
 [INSTALLATION]
 
