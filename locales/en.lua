@@ -3,12 +3,12 @@ Locales['en'] = {
 
 	--Title and subtitles 
 	
-		['demarches'] = 'Gait',
+		['demarches'] = 'Walk',
 		['categories'] = 'Categories',
 		['shumeurs'] = 'Moods',
 		['sattitudes'] = 'Attitudes',
 		['sautres'] = 'Other',
-		['sfemmes'] = 'Special Women',
+		['sfemmes'] = 'Random',
 		['reset'] = '~r~Reset',
 		['quitter'] = "~o~Quit",
 		
@@ -17,58 +17,57 @@ Locales['en'] = {
 		['humeurs'] = '~b~Moods',
 		['attitudes'] = '~b~Attitudes',
 		['autres'] = '~b~Other',
-		['femmes'] = '~b~Special Women',
+		['femmes'] = '~b~Women',
 	
 	-- Moods
 	
-		['determine'] = 'Determiné',
-		['triste'] = 'Triste',
-		['depression'] = 'Depression',
-		['enerve'] = 'Enervé',
-		['presse'] = 'Pressé',
-		['timide'] = 'Timide',
-		['lunatique'] = 'Lunatique',
-		['stresse'] = 'Stressé',
-		['flemme'] = 'Flemme',
+		['determine'] = 'Determined',
+		['triste'] = 'Sad',
+		['depression'] = 'Very Sad',
+		['enerve'] = 'Annoyed',
+		['presse'] = 'Eager',
+		['timide'] = 'Shy',
+		['lunatique'] = 'Moody',
+		['stresse'] = 'Stressed',
+		['flemme'] = 'Lazy',
 		
 	-- Attitudes
 	
-		['hautain'] = 'Hautain',
+		['hautain'] = 'Proud',
 		['badboy'] = 'Bad Boy',
 		['gangster'] = 'Gangster',
-		['fraquasse'] = 'Fraquassé',
-		['coquille'] = 'Coquille Vide',
-		['coince'] = 'Coincé',
-		['perdu'] = 'Perdu',
-		['intimidant'] = 'Intimidant',
-		['richissime'] = 'Richissime',
-		['hargneux'] = 'Hargneux',
-		['imposant'] = 'Imposant',
-		['frimeur'] = 'Frimeur',
+		['fraquasse'] = 'Cold',
+		['coquille'] = 'Empty Shell',
+		['coince'] = 'Stuck Up',
+		['perdu'] = 'Lost',
+		['intimidant'] = 'Intimidating',
+		['richissime'] = 'Rich',
+		['hargneux'] = 'Aggressive',
+		['imposant'] = 'Imposing',
+		['frimeur'] = 'Show-off',
 		
 	-- Others
 	
-		['randonneur'] = 'Randonneur',		
-		['blesse'] = 'Blessé',
-		['obese'] = 'Obèse',			
-		['fesses'] = 'Mal aux fesses',
-		['detente'] = 'Detente',
+		['randonneur'] = 'Backpacker',		
+		['blesse'] = 'Injured',
+		['obese'] = 'Fat',			
+		['fesses'] = 'Butt',
+		['detente'] = 'Relaxed',
 		
 	-- Special Women
 	
-		['arrogante'] = 'Arrogante',
-		['classique'] = 'Classique',
+		['arrogante'] = 'Arrogant',
+		['classique'] = 'Classical',
 		['fragile'] = 'Fragile',
-		['enerve'] = 'Enervée',
-		['fatale'] = 'Femme fatale',
-		['fuite'] = 'Fuite',
-		['tristesse'] = 'Tristesse',
-		['rebelle'] = 'Rebelle',
-		['serieuse'] = 'Serieuse',
-		['ffesses'] = 'Roule des fesses',
-		['hautaines'] = 'Hautaine',
+		['enerve'] = 'Angry',
+		['fatale'] = 'Fatal',
+		['fuite'] = 'Flight',
+		['tristesse'] = 'Sad',
+		['rebelle'] = 'Rebel',
+		['serieuse'] = 'Serious',
+		['ffesses'] = 'Roll Butt',
+		['hautaines'] = 'Proud',
 }
-
 
 
 
