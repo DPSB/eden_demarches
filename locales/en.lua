@@ -1,8 +1,6 @@
 Locales['en'] = {
 
-
 	--Title and subtitles 
-	
 		['demarches'] = 'Walk',
 		['categories'] = 'Categories',
 		['shumeurs'] = 'Moods',
@@ -11,16 +9,14 @@ Locales['en'] = {
 		['sfemmes'] = 'Random',
 		['reset'] = '~r~Reset',
 		['quitter'] = "~o~Quit",
-		
+
 	--Main Menu
-	
 		['humeurs'] = '~b~Moods',
 		['attitudes'] = '~b~Attitudes',
 		['autres'] = '~b~Other',
 		['femmes'] = '~b~Women',
-	
+
 	-- Moods
-	
 		['determine'] = 'Determined',
 		['triste'] = 'Sad',
 		['depression'] = 'Very Sad',
@@ -30,9 +26,8 @@ Locales['en'] = {
 		['lunatique'] = 'Moody',
 		['stresse'] = 'Stressed',
 		['flemme'] = 'Lazy',
-		
+
 	-- Attitudes
-	
 		['hautain'] = 'Proud',
 		['badboy'] = 'Bad Boy',
 		['gangster'] = 'Gangster',
@@ -45,17 +40,15 @@ Locales['en'] = {
 		['hargneux'] = 'Aggressive',
 		['imposant'] = 'Imposing',
 		['frimeur'] = 'Show-off',
-		
+
 	-- Others
-	
 		['randonneur'] = 'Backpacker',		
 		['blesse'] = 'Injured',
 		['obese'] = 'Fat',			
 		['fesses'] = 'Butt',
 		['detente'] = 'Relaxed',
-		
+
 	-- Special Women
-	
 		['arrogante'] = 'Arrogant',
 		['classique'] = 'Classical',
 		['fragile'] = 'Fragile',
@@ -68,6 +61,3 @@ Locales['en'] = {
 		['ffesses'] = 'Roll Butt',
 		['hautaines'] = 'Proud',
 }
-
-
-
